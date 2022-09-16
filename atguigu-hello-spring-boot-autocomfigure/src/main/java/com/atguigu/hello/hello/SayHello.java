@@ -11,4 +11,8 @@ public class SayHello {
     public void test45(){
         System.out.println("hello wanghong");
     }
+
+    public void test100(){
+        System.out.println("test push");
+    }
 }
