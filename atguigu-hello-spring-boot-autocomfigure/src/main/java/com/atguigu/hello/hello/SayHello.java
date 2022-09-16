@@ -6,6 +6,6 @@ public class SayHello {
     }
 
     public void test2(){
-        System.out.println("hello git2");
+        System.out.println("hello git3");
     }
 }
