@@ -5,7 +5,7 @@ public class SayHello {
         System.out.println("hello git");
     }
 
-    public void test2(){
+    public void test45(){
         System.out.println("hello git3");
     }
 }
